@@ -50,7 +50,3 @@
 
 Follow these steps to run the project locally on your machine using XAMPP, WAMP, or any standard Apache/MySQL server.
 
-### 1. Clone the Repository
-```bash
-git clone [https://github.com/your-username/BusTrack.git](https://github.com/your-username/BusTrack.git)
-cd BusTrack
