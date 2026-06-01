@@ -46,6 +46,7 @@
 
 ---
 
+
 ## 🚀 Installation & Setup
 
 Follow these steps to run the project locally on your machine using XAMPP, WAMP, or any standard Apache/MySQL server.
