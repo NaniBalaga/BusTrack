@@ -3,7 +3,7 @@ session_start();
 // NOTE: db_connect.php must be included here
 include 'db_connect.php'; 
 
-// --- Access Control: Only Admins Can Access ---
+
 if (!isset($_SESSION['user_id']) || $_SESSION['role'] !== 'admin') {
     header("Location: login.php");
     exit;
